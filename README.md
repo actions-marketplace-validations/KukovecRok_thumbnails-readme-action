@@ -1,4 +1,4 @@
-# Pthumbnails-readme-action
+# thumbnails-readme-action
 
 
 Repository for [thumbnails-readme](https://github.com/firefly-cpp/thumbnails-readme) PyPI package action.
